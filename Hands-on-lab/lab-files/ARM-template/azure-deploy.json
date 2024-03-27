@@ -172,7 +172,7 @@
                     },
                     "imageReference": {
                         "publisher": "MicrosoftSQLServer",
-                        "offer": "SQL2008R2SP3-WS2008R2SP1",
+                        "offer": "SQL2012SP4-WS2012R2",
                         "sku": "Standard",
                         "version": "latest"
                     }
